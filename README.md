@@ -16,7 +16,7 @@ Follow these steps to start using the Anonymous Auth System:
 1. **Installation**: Clone the repository and set up the system on your server.
 
     ```bash
-    git clone https://github.com/AmpedWasTaken/AnonymousAuthSystem.git
+    git clone https://github.com/AmpedWasTaken/Anonymous-Auth-System.git
     ```
 
 2. **Configuration**: Adjust the configuration files in the `configs` directory to match your environment.
